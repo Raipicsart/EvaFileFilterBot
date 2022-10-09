@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/ritheshrkrm17/EvaMaria",
-    "repository": "https://github.com/ritheshrkrm17/EvaMaria",
+    "website": "https://github.com/ritheshrkrm/EvaMaria",
+    "repository": "https://github.com/ritheshrkrm/EvaMaria",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",

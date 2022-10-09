@@ -53,7 +53,7 @@ class script(object):
 <b>DEV:</b>
 
 - <a href=https://t.me/rithesh_rkrm_17>『ᴘɪʀᴏ』</a>
-- Source - https://github.com/ritheshrkrm17/EvaMaria """
+- Source - https://github.com/ritheshrkrm/EvaMaria """
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
