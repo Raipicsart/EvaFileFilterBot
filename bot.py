@@ -87,5 +87,5 @@ class Bot(Client):
                 current += 1
 
 
-bot = Bot()
-bot.run()
+app = Bot()
+app.run()
