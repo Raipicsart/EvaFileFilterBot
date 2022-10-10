@@ -1,10 +1,10 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/ritheshrkrm/EvaBot.git /EvaBot
+  git clone https://github.com/raipicsart/EvaFileFilterBot.git /EvaFileFilterBot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /EvaBot
+  git clone $UPSTREAM_REPO /EvaFileFilterBot
 fi
 cd /EvaMaria
 pip3 install -U -r requirements.txt
